@@ -2,7 +2,6 @@
 
 Markdown es un lenguaje de marcado ligero diseñado para dar formato al texto de manera sencilla y rápida. Su objetivo principal es permitir crear documentos claros sin depender de herramientas complejas. Es muy utilizado en el desarrollo porque se transforma fácilmente en HTML y funciona perfectamente en plataformas como GitHub, GitLab y Bitbucket.
 
----
 
 # 🔍 ¿POR QUÉ ES TAN ÚTIL MARKDOWN EN EL DESARROLLO DE SOFTWARE?
 
@@ -44,7 +43,6 @@ Permite agregar:
 - Código  
 - Citas  
 
----
 
 # 📝 Ejemplos de Uso de Markdown
 
@@ -56,7 +54,6 @@ Permite agregar:
 ##### Quinto Nivel  
 ###### Sexto Nivel  
 
----
 
 ## 📌 Listas
 
@@ -70,7 +67,6 @@ Permite agregar:
 2. Configurar variables  
 3. Ejecutar el servidor  
 
----
 
 ## 📈 Tabla de ejemplo
 
@@ -80,13 +76,9 @@ Permite agregar:
 | Cámara     | $90    | Sí    |
 | Impresora  | $180   | No    |
 
----
 
 ## 🔗 Enlace de ejemplo
 [Visitar GitHub](https://github.com)
-
----
-
 ## 🖼 Imagen de ejemplo
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Markdown_logo_2015.png" width="90">
 
