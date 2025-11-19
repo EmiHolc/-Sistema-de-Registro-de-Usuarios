@@ -80,5 +80,4 @@ Permite agregar:
 ## 🔗 Enlace de ejemplo
 [Visitar GitHub](https://github.com)
 ## 🖼 Imagen de ejemplo
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Markdown_logo_2015.png" width="90">
-
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80">
